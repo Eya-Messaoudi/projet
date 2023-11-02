@@ -1,0 +1,8 @@
+.card {
+  border: 2px solid rgb(225, 13, 215);
+}
+.card .card-header {
+  color: rgb(225, 13, 215);
+  text-decoration: solid;
+  font-weight: 500;
+}

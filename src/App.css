@@ -1,0 +1,36 @@
+.body {
+  background-color: rgb(5, 4, 24);
+}
+
+.title h1 {
+  color: rgb(225, 13, 215);
+  font-family: Georgia, "Times New Roman", Times, serif;
+}
+.title .col-md-6 {
+  border: 1px solid rgb(225, 13, 215);
+  background-color: rgba(236, 232, 232, 0.335);
+}
+.title .col-md-6:hover {
+  background-color: rgb(247, 210, 245);
+}
+
+.pfe h1 {
+  color: rgb(208, 135, 253);
+  font-family: Georgia, "Times New Roman", Times, serif;
+}
+.pfe .col-md-6 {
+  border: 1px solid rgb(208, 135, 253);
+  background-color: rgba(236, 232, 232, 0.335);
+  height: 100px;
+}
+.pfe .col-md-6 a {
+  text-decoration: none;
+  color: rgb(208, 135, 253);
+  font-family: Georgia, "Times New Roman", Times, serif;
+}
+.pfe .col-md-6:hover {
+  background-color: rgb(241, 219, 255);
+}
+.pfe .col-md-6 a {
+  text-decoration: none;
+}
