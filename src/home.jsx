@@ -19,7 +19,7 @@ const Home = () => {
           </Link>
         </div>
         <div className="col-md-6 offset-md-1 rounded mt-4 text-center d-flex justify-content-center align-items-center">
-          <Link to="/mindmap" className="display-5 p-3">
+          <Link to="/image" className="display-5 p-3">
             Mind map
           </Link>
         </div>
